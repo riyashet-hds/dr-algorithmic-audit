@@ -1,6 +1,6 @@
 # Algorithmic Audit of a Diabetic Retinopathy Classifier
 
-**Going beyond accuracy to find where a DR grading model actually fails**
+**A 0.88 headline score hid 48.6% sensitivity on the most urgent grade.**
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
